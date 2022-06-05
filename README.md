@@ -22,7 +22,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: **JavaScript and API documentation**
 
-- 👨‍💻 My shareable portfolio is available here: [link](link)
+- 👨‍💻 My public portfolio pieces (excludes work covered by NDAs :sweat_smile:):
+
+   * **<a href="https://github.com/amaravasquez/portfolio/blob/main/application_tutorial.md">How to apply for the Everi Technical Writer I position</a>**
+   * **<a href="https://github.com/amaravasquez/portfolio/blob/main/adobe_photoshop_tutorial.md">How to edit a portrait in Adobe Photoshop</a>**
+  
+   * **<a href="https://github.com/amaravasquez/portfolio/blob/main/NDA_overview.md">Non-Disclosure Agreements ("NDA") Overview</a>**
+  
+   * **<a href="https://github.com/amaravasquez/portfolio/blob/main/italian_visa_blog_post.md">Applying for an Italian Student Visa in 9 Steps</a>**
+  
+   * **<a href="https://github.com/amaravasquez/portfolio/blob/main/roman_achievements_blog_post.md">10 Influential Achievements of the Romans</a>**
+
 
 - 📫 How to reach me: **ameliamaravasquez@gmail.com**
 
